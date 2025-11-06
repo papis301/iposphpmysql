@@ -1,0 +1,3 @@
+RewriteEngine On
+# Optionnel: protéger includes
+RewriteRule ^includes/ - [F]
